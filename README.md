@@ -28,4 +28,4 @@ A set of 5 original, futuristic 4K wallpapers designed with neon purple, deep bl
 
 ## Links
 - Project homepage: [robotminded.github.io](https://robotminded.github.io/)
-- KDE Store (coming soon): *link will be added after first release*
+- KDE Store: https://www.pling.com/p/2313287
